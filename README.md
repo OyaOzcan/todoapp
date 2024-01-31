@@ -1,4 +1,4 @@
-![91005083-b13b-4215-bf2d-911ec246ec3b](https://github.com/OyaOzcan/todoapp/assets/141520129/fac636e7-5bd9-4ad5-832a-e4dedc79e728)
-![f5f37ada-8653-40ff-87e7-cd17069082e9](https://github.com/OyaOzcan/todoapp/assets/141520129/9ec0806b-ed5b-4845-91cf-d1fa48ba13c8)
-![b6d9afda-8e00-4d03-bd1d-afeb4d400e5a](https://github.com/OyaOzcan/todoapp/assets/141520129/8d90d8c1-5b43-4566-82f2-f729fc858349)
-![246c1a70-a247-4a8c-bdf1-29b55e5eb4a0](https://github.com/OyaOzcan/todoapp/assets/141520129/75f22acf-c3e4-4b6e-a793-2429f7579549)
+![todo4](https://github.com/OyaOzcan/todoapp/assets/141520129/b4c4cc25-e8c2-47ca-96ab-d93ebfd94560)
+![todo3](https://github.com/OyaOzcan/todoapp/assets/141520129/91921b19-1796-4180-a14c-67508adc17f1)
+![todo2](https://github.com/OyaOzcan/todoapp/assets/141520129/cbcdab8c-5a40-487d-8ec5-60ec8d1db507)
+![todo1](https://github.com/OyaOzcan/todoapp/assets/141520129/d88c6322-c154-4a40-8c90-25dbaa621b2c)
